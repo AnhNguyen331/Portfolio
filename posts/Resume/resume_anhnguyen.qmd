@@ -1,0 +1,127 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=14mm
+      - left=15mm
+      - right=15mm
+      - bottom=10mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \usepackage{wrapfig}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+
+<!-- TITLE -->
+
+\begin{huge}\begin{center}{\bf ANH NGUYEN}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+
+\begin{center}\href{mailto::yenanh0331@gmail.com}{yenanh0331@gmail.com} ∙ \href{https://github.com/AnhNguyen331}{Github} ∙ \href{https://www.linkedin.com/in/anh-nguyen-0649b7329/}{LinkedIn} 
+\end{center}
+\vspace{5pt}
+
+**Summary:** Junior Data Science student with experience focusing on **data modeling**, **statistical inference**, and **artificial intelligence**\
+**Languages:** Python (primary), R, SQL
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{
+      \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{Seal_of_the_University_of_Nebraska.jpg}
+      \bf \href{https://its.unl.edu}{University of Nebraska - Lincoln}}\\
+      \hspace{11mm}
+      \begin{tabular}[t]{@{}l@{}}
+      Student IT Assistant \\
+      \textit{Information Technology Client Services}
+      \end{tabular}
+    \end{flushleft}
+    \begin{flushright}
+    \begin{small}(2yrs)\end{small} August 2024 - Present\\
+    Lincoln, NE
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+
+-   Deliver technical support for faculty, staff, and students via phone, email, and in-person, ensuring timely resolution of software, OS, and hardware issues.
+-   Troubleshoot network and connectivity problems, applying analytical problem-solving to minimize downtime.
+-   Collaborate with a 20+ member team to manage device check-in/out processes, maintain accurate records and ensuring resource availability.
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \hspace{11mm}
+      \begin{tabular}[t]{@{}l@{}}
+      International Welcome Team Member \\
+      \textit{New Student Enrollment}
+      \end{tabular}
+    \end{flushleft}
+    \begin{flushright}
+    \begin{small}(6mth)\end{small} August 2024 - Feb 2025
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.2cm}
+
+-   Facilitated check-in and onboarding for 100+ international students, ensuring compliance with University Housing protocols and accurate information tracking.
+-   Led small-group orientation sessions, enhancing communication and building engagement through clear presentation of complex processes.
+-   Coordinated events during International Welcome Week, demonstrating adaptability and collaboration in fast-paced environments. \vspace{0pt}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \hspace{11 mm}
+      \begin{tabular}[t]{@{}l@{}}
+      Student Worker \\
+      \textit{Institute of Agriculture and Natural Resources}
+      \end{tabular}
+    \end{flushleft}
+    \begin{flushright}
+    \begin{small}(10mth)\end{small} October 2023 - August 2024
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.2cm}
+
+-   Performed financial reconciliations and detailed data entry to maintain high data accuracy and reporting integrity.
+-   Streamlined documentation processes in compliance with audit and business center standards, improving reporting efficiency.
+-   Assisted in identifying and resolving discrepancies in records, contributing to data management and quality assurance.
+
+\vspace{0pt} <!-- EDUCATION: 1ST BULLET -->
+
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 23mm 0 0,width=0.04\textwidth]{nebraska-n.jpg}
+      \hspace{1 mm} {\bf University of Nebraska - Lincoln}\\
+      \hspace{11 mm}
+      \begin{tabular}[t]{@{}l@{}}
+      Bachelor of Science: Data Science \\
+      \textit{Minor: Computer Science}
+      \end{tabular}
+    \end{flushleft}
+    \begin{flushright}
+    Lincoln, NE
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{0.05cm}
