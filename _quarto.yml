@@ -11,8 +11,10 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - text: "Cover Letter"
+        href: https://anhnguyen331.github.io/Resume-CoverLetter/coverletter_anhnguyen.pdf
+      - text: "Resume"
+        href: https://anhnguyen331.github.io/Resume-CoverLetter/resume_anhnguyen.pdf
 format:
   html:
     theme:
