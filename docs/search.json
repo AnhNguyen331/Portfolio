@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "Untitled.html",
-    "href": "Untitled.html",
-    "title": "Hello World",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is an empty article."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, my name is Anh Nguyen",
-    "section": "",
-    "text": "hello world\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridge Infrastructure Analysis\n\n\n\nR\n\nBusiness Report\n\n\n\n\n\n\n\n\n\nMay 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Uber/Lyft Prices: KNN vs. Random Forest\n\n\n\nPython\n\nMachine Learning\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 11, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Predicting Uber/Lyft Prices: KNN vs. Random Forest",
-    "section": "",
-    "text": "Description: Ride-sharing platforms such as Uber and Lyft use dynamic pricing that makes fare prediction a challenging problem. This study compares K-Nearest Neighbors (KNN) Regression and Random Forest in predicting ride-sharing prices using a dataset of 637,976 ride records from Boston, MA. Features include distance, surge multiplier, ride type, source, destination, and time-based attributes. KNN (k=9) achieved an RMSE of $1.841, MAE of $1.187, and R2 of 0.961, while Random Forest achieved an RMSE of $1.811, MAE of $1.142, and R2 of 0.962. Results show that both models effectively predict ride-sharing prices, with Random Forest outperforming KNN overall.\n\nProject Report\nProject Code"
-  },
-  {
-    "objectID": "posts/hello-world/index.html",
-    "href": "posts/hello-world/index.html",
-    "title": "hello world",
-    "section": "",
-    "text": "this is an empty article."
+    "text": "About this blog"
   },
   {
     "objectID": "posts/bridge_analysis/index.html",
@@ -42,10 +14,17 @@
     "text": "Description: This project evaluates bridge failure risk across Omaha’s Douglas County using 2025 Federal Highway Administration inspection data. Rather than relying on structural condition alone, the analysis introduces a two-dimensional risk framework that weighs deck/superstructure/substructure condition ratings against Average Daily Traffic (ADT) as a proxy for failure consequence. Of 390 bridges analyzed, 16 were flagged as higher-risk — averaging nearly 30 years older than the rest of the sample. Statistical analysis (Spearman correlation) revealed that traffic volume and structural condition are only weakly related, meaning high-traffic bridges aren’t necessarily receiving proportionally stronger maintenance.\n\nBusiness Report\nR-Code"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/Uber_Lyft_price/index.html",
+    "href": "posts/Uber_Lyft_price/index.html",
+    "title": "Predicting Uber/Lyft Prices: KNN vs. Random Forest",
     "section": "",
-    "text": "About this blog"
+    "text": "Description: Ride-sharing platforms such as Uber and Lyft use dynamic pricing that makes fare prediction a challenging problem. This study compares K-Nearest Neighbors (KNN) Regression and Random Forest in predicting ride-sharing prices using a dataset of 637,976 ride records from Boston, MA. Features include distance, surge multiplier, ride type, source, destination, and time-based attributes. KNN (k=9) achieved an RMSE of $1.841, MAE of $1.187, and R2 of 0.961, while Random Forest achieved an RMSE of $1.811, MAE of $1.142, and R2 of 0.962. Results show that both models effectively predict ride-sharing prices, with Random Forest outperforming KNN overall.\n\nProject Report\nProject Code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, my name is Anh Nguyen",
+    "section": "",
+    "text": "Bridge Infrastructure Analysis\n\n\n\nR\n\nBusiness Report\n\n\n\n\n\n\n\n\n\nMay 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Uber/Lyft Prices: KNN vs. Random Forest\n\n\n\nPython\n\nMachine Learning\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nER-Schema Consistency Checker\n\n\n\nPython\n\nData Modeling\n\n\n\n\n\n\n\n\n\nDec 10, 2025\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -2,9 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/hello-world/index.html",
       "/posts/bridge_analysis/index.html",
-      "/posts/post-with-code/index.html",
+      "/posts/Uber_Lyft_price/index.html",
       "/posts/welcome/index.html"
     ]
   }
