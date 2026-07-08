@@ -5,15 +5,38 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Portfolio1</title>
+<title>Anh Nguyen&#39;s Porfolio</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 14 Jan 2026 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <title>Bridge Infrastructure Analysis</title>
+  <link>https://your-website-url.example.com/posts/bridge_analysis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Description:</strong> This project evaluates bridge failure risk across Omaha’s Douglas County using 2025 Federal Highway Administration inspection data. Rather than relying on structural condition alone, the analysis introduces a two-dimensional risk framework that weighs deck/superstructure/substructure condition ratings against Average Daily Traffic (ADT) as a proxy for failure consequence. Of 390 bridges analyzed, 16 were flagged as higher-risk — averaging nearly 30 years older than the rest of the sample. Statistical analysis (Spearman correlation) revealed that traffic volume and structural condition are only weakly related, meaning high-traffic bridges aren’t necessarily receiving proportionally stronger maintenance.</p>
+<ul>
+<li><a href="Bridge Infastructure Analysis.pdf">Business Report</a></li>
+<li><a href="Analysis_code.R">R-Code</a></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>R</category>
+  <category>Business Report</category>
+  <guid>https://your-website-url.example.com/posts/bridge_analysis/</guid>
+  <pubDate>Sun, 10 May 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/bridge_analysis/10829_Bob_Bridge_CBCVB.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Predicting Uber/Lyft Prices: KNN vs. Random Forest</title>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>
   <description><![CDATA[ 
 
@@ -21,29 +44,21 @@
 
 
 
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p><strong>Description:</strong> Ride-sharing platforms such as Uber and Lyft use dynamic pricing that makes fare prediction a challenging problem. This study compares K-Nearest Neighbors (KNN) Regression and Random Forest in predicting ride-sharing prices using a dataset of 637,976 ride records from Boston, MA. Features include distance, surge multiplier, ride type, source, destination, and time-based attributes. KNN (k=9) achieved an RMSE of $1.841, MAE of $1.187, and R<sup>2</sup> of 0.961, while Random Forest achieved an RMSE of $1.811, MAE of $1.142, and R<sup>2</sup> of 0.962. Results show that both models effectively predict ride-sharing prices, with Random Forest outperforming KNN overall.</p>
+<ul>
+<li><a href="Uber&amp;Lyft_price_prediction.pdf">Project Report</a></li>
+<li><a href="Uber_Lyft_code.py">Project Code</a></li>
+</ul>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
+  <category>Python</category>
+  <category>Machine Learning</category>
   <category>analysis</category>
   <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Wed, 14 Jan 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Sun, 12 Apr 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/uber-vs-lyft.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
@@ -81,7 +96,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/hello-world/</guid>
-  <pubDate>Mon, 26 Jan 2026 17:30:10 GMT</pubDate>
+  <pubDate>Tue, 07 Jul 2026 15:35:04 GMT</pubDate>
 </item>
 </channel>
 </rss>

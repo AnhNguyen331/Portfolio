@@ -6,19 +6,23 @@
   </url>
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-01-14T16:23:30.617Z</lastmod>
+    <lastmod>2026-07-06T19:30:25.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <lastmod>2026-01-14T16:06:30.118Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <lastmod>2026-07-07T15:33:33.625Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/hello-world/index.html</loc>
     <lastmod>2026-01-14T16:42:50.865Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2026-01-14T16:06:30.119Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-01-14T16:06:30.118Z</lastmod>
+    <loc>https://your-website-url.example.com/posts/bridge_analysis/index.html</loc>
+    <lastmod>2026-07-07T15:35:03.150Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/about.html</loc>
