@@ -1,6 +1,0 @@
----
-title: "hello world"
-format: html
----
-
-this is an empty article.
