@@ -2,20 +2,20 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   description: "A blog built with Quarto"
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "Anh Nguyen's Porfolio"
+  title: " "
   navbar:
+    left:
+      - icon: house
+        text: " "
+        href: index.qmd
     right:
-      - about.qmd
+      - icon: search
       - icon: github
         href: https://github.com/
-      - text: "Cover Letter"
-        href: https://anhnguyen331.github.io/Resume-CoverLetter/coverletter_anhnguyen.pdf
-      - text: "Resume"
-        href: https://anhnguyen331.github.io/Resume-CoverLetter/resume_anhnguyen.pdf
+
 format:
   html:
     theme:

@@ -1,13 +1,27 @@
 ---
-title: "Hi, my name is Anh Nguyen"
+title: ""
 listing:
-  contents: posts
-  feed: true
+  contents: posts  
+  type: grid
   sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
+# Hi, my name is Anh Nguyen 
+::: {.about-section}
+
+::: {.profile-col}
+![](IMG_5317.jpg){.profile-pic}
+
+[<i class="bi bi-linkedin"></i> LinkedIn](www.linkedin.com/in/anh-nguyen-0649b7329
+){.btn .btn-outline-secondary}
+[<i class="bi bi-github"></i> Github](https://github.com/AnhNguyen331){.btn .btn-outline-secondary}
+:::
+
+::: {.bio-col}
+I am a Data Science undergraduate at the University of Nebraska-Lincoln. My focus is on **Infrastructure Risk Analysis**, applying **Statistical Modeling**, and developing **Machine Learning** solutions to real-world problems.
+
+Outside of school, I enjoy doing exercise and reading.
+:::
+
+:::
+## Projects

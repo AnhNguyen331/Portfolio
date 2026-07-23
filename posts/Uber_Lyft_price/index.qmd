@@ -7,5 +7,5 @@ image: "uber-vs-lyft.jpg"
 
 **Description:** Ride-sharing platforms such as Uber and Lyft use dynamic pricing that makes fare prediction a challenging problem. This study compares K-Nearest Neighbors (KNN) Regression and Random Forest in predicting ride-sharing prices using a dataset of 637,976 ride records from Boston, MA. Features include distance, surge multiplier, ride type, source, destination, and time-based attributes. KNN (k=9) achieved an RMSE of \$1.841, MAE of \$1.187, and R^2^ of 0.961, while Random Forest achieved an RMSE of \$1.811, MAE of \$1.142, and R^2^ of 0.962. Results show that both models effectively predict ride-sharing prices, with Random Forest outperforming KNN overall.
 
-- [Project Report](Uber&amp;Lyft_price_prediction.pdf)
-- [Project Code](Uber_Lyft_code.py)
+-   [Project Report](Uber&Lyft_price_prediction.pdf)
+-   [Project Code](Uber_Lyft_code.py)

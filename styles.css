@@ -1,1 +1,60 @@
-/* css styles */
+.navbar {
+  display: flex ;
+  background-color: #3d5a73 !important;
+  font-size: 2rem;
+  height: 100px;
+  align-items: flex-start;
+}
+
+.navbar-title,
+.navbar-nav .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+.navbar .quarto-search-icon,
+.navbar svg {
+  fill: white !important;
+  stroke: white !important;
+}
+.navbar-brand-custom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.3rem;
+}
+
+.navbar-brand-custom .bi-house {
+  font-size: 1.5rem;
+}
+
+.navbar-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.about-section {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.profile-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.profile-pic {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.bio-col {
+  flex: 1;
+  min-width: 300px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}

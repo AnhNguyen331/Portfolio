@@ -6,7 +6,7 @@ href: "Bridge Infastructure Analysis.pdf"
 image: "10829_Bob_Bridge_CBCVB.jpg"
 ---
 
-**Description:** This project evaluates bridge failure risk across Omaha's Douglas County using 2025 Federal Highway Administration inspection data. Rather than relying on structural condition alone, the analysis introduces a two-dimensional risk framework that weighs deck/superstructure/substructure condition ratings against Average Daily Traffic (ADT) as a proxy for failure consequence. Of 390 bridges analyzed, 16 were flagged as higher-risk — averaging nearly 30 years older than the rest of the sample. Statistical analysis (Spearman correlation) revealed that traffic volume and structural condition are only weakly related, meaning high-traffic bridges aren't necessarily receiving proportionally stronger maintenance. 
+**Description:** This project evaluates bridge failure risk across Omaha's Douglas County using 2025 Federal Highway Administration inspection data. Rather than relying on structural condition alone, the analysis introduces a two-dimensional risk framework that weighs deck/superstructure/substructure condition ratings against Average Daily Traffic (ADT) as a proxy for failure consequence. Of 390 bridges analyzed, 16 were flagged as higher-risk — averaging nearly 30 years older than the rest of the sample. Statistical analysis (Spearman correlation) revealed that traffic volume and structural condition are only weakly related, meaning high-traffic bridges aren't necessarily receiving proportionally stronger maintenance.
 
-- [Business Report](Bridge%20Infastructure%20Analysis.pdf)
-- [R-Code](Analysis_code.R)
+-   [Business Report](Bridge%20Infastructure%20Analysis.pdf)
+-   [R-Code](Analysis_code.R)

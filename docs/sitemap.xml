@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/Untitled.html</loc>
-    <lastmod>2026-01-14T16:29:00.468Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-07-06T19:30:25.358Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-01-14T16:06:30.118Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2026-07-07T15:33:33.625Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/hello-world/index.html</loc>
-    <lastmod>2026-01-14T16:42:50.865Z</lastmod>
+    <loc>https://your-website-url.example.com/about.html</loc>
+    <lastmod>2026-01-14T16:06:30.119Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/bridge_analysis/index.html</loc>
-    <lastmod>2026-07-07T15:35:03.150Z</lastmod>
+    <lastmod>2026-07-23T14:58:00.154Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-01-14T16:06:30.119Z</lastmod>
+    <loc>https://your-website-url.example.com/posts/Uber_Lyft_price/index.html</loc>
+    <lastmod>2026-07-23T14:51:41.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2026-07-23T15:12:27.042Z</lastmod>
   </url>
 </urlset>
